@@ -9,4 +9,4 @@ Use Shortcode on TinyMCE or Markdown for support FontAwesome or Unicons
 ``` [ei icon='fa-solid fa-house' size='60px' color='red'] ```
 
 If you want to see new plugins, buy me a ☕ :)
-(My PayPal)[bit.ly/donate-multicolor-plugins]
+[My PayPal](bit.ly/donate-multicolor-plugins)
