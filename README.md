@@ -6,7 +6,7 @@ Use Shortcode on TinyMCE or Markdown for support FontAwesome or Unicons
     2.Paste code icon and make own size and color like example
     3.This shortocode works only on normal page content
 
-[code] [ei icon='fa-solid fa-house' size='60px' color='red'] [/code]
+``` [ei icon='fa-solid fa-house' size='60px' color='red'] ```
 
 If you want to see new plugins, buy me a ☕ :)
 [url=bit.ly/donate-multicolor-plugins]My PayPal[/url]
