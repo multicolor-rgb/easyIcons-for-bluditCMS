@@ -10,3 +10,7 @@ Use Shortcode on TinyMCE or Markdown for support FontAwesome or Unicons
 
 If you want to see new plugins, buy me a ☕ :)
 [My PayPal](bit.ly/donate-multicolor-plugins)
+
+
+Download:
+[Download This](https://github.com/multicolor-rgb/easyIcons-for-bluditCMS/archive/refs/heads/main.zip)
